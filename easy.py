@@ -1,0 +1,3 @@
+import easy
+
+print("ok")
