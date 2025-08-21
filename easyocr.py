@@ -1,0 +1,3 @@
+import easyocr
+
+print("ok")
